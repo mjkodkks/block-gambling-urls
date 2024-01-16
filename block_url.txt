@@ -1,6 +1,1 @@
-||www.upfastfile.com
-||cdend.com
-||s3t3d2y8.afcdn.net
-||u3y8v8u4.aucdn.net
-||static.javhdhello.com
 cdn.jsdelivr.net/npm/devtools-detector
