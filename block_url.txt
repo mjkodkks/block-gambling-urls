@@ -1,1 +1,10 @@
+[Adblock Plus 2.0]
+! Title: BlockGamblingUrl
+! Version: 7.12.2022.01
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/mjkodkks/block-gambling-urls
+! Reporting Issues: https://github.com/mjkodkks/block-gambling-urls/issues
+! Developer & Maintainer: mjkodkks
+
+! JS
 cdn.jsdelivr.net/npm/devtools-detector
