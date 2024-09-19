@@ -74,8 +74,6 @@ https://*/panama888-240822_720.mp4
 
 
 
-
-
 ! Banner 037
 037hdmovie.com###ads-single
 037hdmovie.com###ads-sidebar-single-top
@@ -83,3 +81,6 @@ https://*/panama888-240822_720.mp4
 037hdmovie.com###ads-bottom-player
 037hdmovie.com###ads-index
 037hdmovie.com###ads-sidebar
+
+! AV
+||av-th.xyz/player/assets/js/jquery.js?v=1$domain=av-th.xyz
