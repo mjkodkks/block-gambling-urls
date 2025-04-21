@@ -93,6 +93,7 @@ https://*/ambsiamley.mp4
 037hdmovie.com###ads-bottom-player
 037hdmovie.com###ads-index
 037hdmovie.com###ads-sidebar
+037hdmovie.com###fix_footer2
 
 ! Banner 037 new
 037hd-movies.com###ads-single
@@ -101,6 +102,7 @@ https://*/ambsiamley.mp4
 037hd-movies.com###ads-bottom-player
 037hd-movies.com###ads-index
 037hd-movies.com###ads-sidebar
+037hd-movies.com###fix_footer2
 
 ! 123 HD
 123-hd.com###banner_top
