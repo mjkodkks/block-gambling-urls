@@ -108,5 +108,11 @@ https://*/Ambsiamfix1.mp4
 ! 123 HD
 123-hd.com###banner_top
 
+! 24-hd
+24-hd.com##.ad
+24-hd.com##.adhl
+24-hd.com##.adcen
+24-hd.com##.adl
+
 ! AV
 ||av-th.xyz/player/assets/js/jquery.js?v=1$domain=av-th.xyz
