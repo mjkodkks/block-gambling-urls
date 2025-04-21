@@ -94,5 +94,13 @@ https://*/ambsiamley.mp4
 037hdmovie.com###ads-index
 037hdmovie.com###ads-sidebar
 
+! Banner 037 new
+037hd-movies.com###ads-single
+037hd-movies.com###ads-sidebar-single-top
+037hd-movies.com###ads-sidebar-single-bottom
+037hd-movies.com###ads-bottom-player
+037hd-movies.com###ads-index
+037hd-movies.com###ads-sidebar
+
 ! AV
 ||av-th.xyz/player/assets/js/jquery.js?v=1$domain=av-th.xyz
