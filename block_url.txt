@@ -102,5 +102,8 @@ https://*/ambsiamley.mp4
 037hd-movies.com###ads-index
 037hd-movies.com###ads-sidebar
 
+! 123 HD
+123-hd.com###banner_top
+
 ! AV
 ||av-th.xyz/player/assets/js/jquery.js?v=1$domain=av-th.xyz
