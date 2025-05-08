@@ -15,7 +15,7 @@ cdn.jsdelivr.net/npm/devtools-detector
 ||u3y8v8u4.aucdn.net
 ||static.javhdhello.com
 ||i0.wp.com
-||jsonads.upnerd.net
+jsonads.upnerd.net
 
 ! link
 ||ufa14k1.com
