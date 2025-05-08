@@ -7,85 +7,84 @@
 ! Developer & Maintainer: mjkodkks
 
 ! JS
-cdn.jsdelivr.net/npm/devtools-detector
+||cdn.jsdelivr.net/npm/devtools-detector$script
 
 ! cdn
-||www.upfastfile.com
-||cdend.com
-||u3y8v8u4.aucdn.net
-||static.javhdhello.com
-||i0.wp.com
-jsonads.upnerd.net
+||www.upfastfile.com^
+||cdend.com^
+||u3y8v8u4.aucdn.net^
+||static.javhdhello.com^
+||i0.wp.com^
+||jsonads.upnerd.net^
 
 ! link
-||ufa14k1.com
-||33crown.net
+||ufa14k1.com^
+||33crown.net^
 
 ! video
-https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ufanance.mp4
-https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4
-https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/panama888.mp4
-https://googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ufazeed.mp4
-https://u3y8v8u4.aucdn.net/library/840590/926013468b70a85a1965182cad42b71d1a8980b4.mp4
-https://u3y8v8u4.aucdn.net/library/876464/53edfa862a30cc794c83dc7bf181128f0bd81ec0.mp4
-https://static.javhdhello.com/h5/files/video/4734-19503-300x250.medium.mp4
-https://u3y8v8u4.aucdn.net/library/626533/6119154b63a4520ff8ffd32d6067c5a102171689.mp4
-https://static.javhdhello.com/h5/files/video/7396-30413-300x250.medium.mp4
-https://u3y8v8u4.aucdn.net/library/872440/7e4958909d9fc362bf5e3b087feda6a771ad6123.mp4
-https://u3y8v8u4.aucdn.net/library/874244/04615b73477ec9ac8d26e5857953ed6f8e5628bf.mp4
-https://s3t3d2y8.afcdn.net/library/873926/a3639b32aa0ce3f1f8c3808f7b36d1403878144c.mp4 
+||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ufanance.mp4$media
+||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/lotto77.mp4$media
+||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/panama888.mp4$media
+||googles.video/c2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1lc2FnYW1l/ufazeed.mp4$media
+||u3y8v8u4.aucdn.net/library/840590/926013468b70a85a1965182cad42b71d1a8980b4.mp4$media
+||u3y8v8u4.aucdn.net/library/876464/53edfa862a30cc794c83dc7bf181128f0bd81ec0.mp4$media
+||static.javhdhello.com/h5/files/video/4734-19503-300x250.medium.mp4$media
+||u3y8v8u4.aucdn.net/library/626533/6119154b63a4520ff8ffd32d6067c5a102171689.mp4$media
+||static.javhdhello.com/h5/files/video/7396-30413-300x250.medium.mp4$media
+||u3y8v8u4.aucdn.net/library/872440/7e4958909d9fc362bf5e3b087feda6a771ad6123.mp4$media
+||u3y8v8u4.aucdn.net/library/874244/04615b73477ec9ac8d26e5857953ed6f8e5628bf.mp4$media
+||s3t3d2y8.afcdn.net/library/873926/a3639b32aa0ce3f1f8c3808f7b36d1403878144c.mp4$media
 
-https://m5-txt-2.hngeatqqyj.com/playlist2/detail/abc359da/720/hls/index.m3u8
-https://m4-txt-2.hngeatqqyj.com/playlist2/detail/2184f080/1080/hls/index.m3u8
-https://m5-txt-2.hngeatqqyj.com/playlist2/detail/59c49213/720/hls/index.m3u8
+||m5-txt-2.hngeatqqyj.com/playlist2/detail/abc359da/720/hls/index.m3u8$media
+||m4-txt-2.hngeatqqyj.com/playlist2/detail/2184f080/1080/hls/index.m3u8$media
+||m5-txt-2.hngeatqqyj.com/playlist2/detail/59c49213/720/hls/index.m3u8$media
 
-https://*/ads-037hdmovie.mp4
-https://*/MVUFAJAZ.mp4
-https://*/lotto432.mp4
-https://*/ufazeed.mp4
-https://*/PGK44_20240123b.mp4
-https://*/UFA222_230516b.mp4
-https://*/ufanance.mp4
-https://*/ufanance_230110.mp4
-https://*/panama888.mp4
-https://*/lotto77.mp4
-https://*/panama888.mp4
-https://*/Lotto24.mp4
-https://*/juad88.mp4
-https://*/huayhit88.mp4
-https://*/hydra888.mp4
-https://*/ufafat-v.mp4
-https://*/lalikabet88.mp4
-https://*/lalikabet168.mp4
-https://*/ads-037hdmovie-yy88.mp4
-https://*/sa168.mp4
-https://*/ufa191.mp4
-https://*/CATCAT.mp4
-https://*/CATCAT-240822_720.mp4
-https://*/lalikabet168-240822_720.mp4
-https://*/ufazeed-240822_720.mp4
-https://*/hydra888-240822_720.mp4
-https://*/lalikabet88-240822_720.mp4
-https://*/lockdown168-240822_720.mp4
-https://*/juad888-240822_720.mp4
-https://*/ufafat-240822_720.mp4
-https://*/ufa191-240822_720.mp4
-https://*/ufanance-240822_720.mp4
-https://*/panama888-240822_720.mp4
-https://*/jXHGOJLQbZ8CfdDASkRqrnPD0pcndBLพร้อมใช้_BERLIN777_THAI_บีบไฟล์.mp4
-https://*/jXHGOJLQbZ8CfdDASkRqrnPD0pcndBL%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%83%E0%B8%8A%E0%B9%89_BERLIN777_THAI_%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C.mp4
-https://*/mlotto.mp4
-https://*/ufa350_v2_720.mp4
-https://*/ufac4-240822_720.mp4
-https://*/lalikabet66-240822_720.mp4
-https://*/sagame350_720.mp4
-https://*/kissme.mp4
-https://*/ufaxc.mp4
-https://*/Heng3000mastered2.mp4
-https://*/Ssd.mp4
-https://*/ambsiamley.mp4
-https://*/Ambsiamfix1.mp4
-
+! Generic video rules
+^ads-037hdmovie.mp4$media
+^MVUFAJAZ.mp4$media
+^lotto432.mp4$media
+^ufazeed.mp4$media
+^PGK44_20240123b.mp4$media
+^UFA222_230516b.mp4$media
+^ufanance.mp4$media
+^ufanance_230110.mp4$media
+^panama888.mp4$media
+^lotto77.mp4$media
+^Lotto24.mp4$media
+^juad88.mp4$media
+^huayhit88.mp4$media
+^hydra888.mp4$media
+^ufafat-v.mp4$media
+^lalikabet88.mp4$media
+^lalikabet168.mp4$media
+^ads-037hdmovie-yy88.mp4$media
+^sa168.mp4$media
+^ufa191.mp4$media
+^CATCAT.mp4$media
+^CATCAT-240822_720.mp4$media
+^lalikabet168-240822_720.mp4$media
+^ufazeed-240822_720.mp4$media
+^hydra888-240822_720.mp4$media
+^lalikabet88-240822_720.mp4$media
+^lockdown168-240822_720.mp4$media
+^juad888-240822_720.mp4$media
+^ufafat-240822_720.mp4$media
+^ufa191-240822_720.mp4$media
+^ufanance-240822_720.mp4$media
+^panama888-240822_720.mp4$media
+^jXHGOJLQbZ8CfdDASkRqrnPD0pcndBLพร้อมใช้_BERLIN777_THAI_บีบไฟล์.mp4$media
+^jXHGOJLQbZ8CfdDASkRqrnPD0pcndBL%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B9%83%E0%B8%8A%E0%B9%89_BERLIN777_THAI_%E0%B8%9A%E0%B8%B5%E0%B8%9A%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C.mp4$media
+^mlotto.mp4$media
+^ufa350_v2_720.mp4$media
+^ufac4-240822_720.mp4$media
+^lalikabet66-240822_720.mp4$media
+^sagame350_720.mp4$media
+^kissme.mp4$media
+^ufaxc.mp4$media
+^Heng3000mastered2.mp4$media
+^Ssd.mp4$media
+^ambsiamley.mp4$media
+^Ambsiamfix1.mp4$media
 
 ! Banner 037
 037hdmovie.com###ads-single
@@ -115,4 +114,4 @@ https://*/Ambsiamfix1.mp4
 24-hd.com##.adl
 
 ! AV
-||av-th.xyz/player/assets/js/jquery.js?v=1$domain=av-th.xyz
+av-th.xyz##+js(no-xhr-if, jquery.js)
