@@ -45,12 +45,17 @@
 ^lotto432.mp4$media
 ^ufazeed.mp4$media
 ^PGK44_20240123b.mp4$media
+^PGK44-20241026-001.mp4$media
 ^UFA222_230516b.mp4$media
 ^ufanance.mp4$media
 ^ufanance_230110.mp4$media
 ^panama888.mp4$media
 ^lotto77.mp4$media
 ^Lotto24.mp4$media
+^lotto432_20250318.mp4$media
+^PIGPG_20250423.mp4$media
+^HENG36_20250303a.mp4$media
+^UFA64_C22_20250306.mp4$media
 ^juad88.mp4$media
 ^huayhit88.mp4$media
 ^hydra888.mp4$media
@@ -85,6 +90,7 @@
 ^Ssd.mp4$media
 ^ambsiamley.mp4$media
 ^Ambsiamfix1.mp4$media
+^panama888-240822_720.mp4$media
 
 ! Banner 037
 037hdmovie.com###ads-single
