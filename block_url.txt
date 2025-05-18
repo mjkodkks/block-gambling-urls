@@ -93,6 +93,7 @@
 ^panama888-240822_720.mp4$media
 ^HENG36_2.mp4$media
 ^ufa64.mp4$media
+^HUAY88.mp4$media
 
 ! Banner 037
 037hdmovie.com###ads-single
