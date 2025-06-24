@@ -119,12 +119,17 @@
 
 ! 123 HD
 123-hd.com###banner_top
+123-hdd.com###banner_top
 
 ! 24-hd
 24-hd.com##.ad
 24-hd.com##.adhl
 24-hd.com##.adcen
 24-hd.com##.adl
+24-hdd.com##.ad
+24-hdd.com##.adhl
+24-hdd.com##.adcen
+24-hdd.com##.adl
 
 ! AV
 ||av-th.xyz^$xmlhttprequest,domain=av-th.xyz
