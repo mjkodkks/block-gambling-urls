@@ -54,6 +54,8 @@
 ||*/Lotto24.mp4$media
 ||*/lotto432_20250318.mp4$media
 ||*/PIGPG_20250423.mp4$media
+||*/pigpg-7.mp4$media
+||*/adsweplay.mp4$media
 ||*/HENG36_20250303a.mp4$media
 ||*/UFA64_C22_20250306.mp4$media
 ||*/juad88.mp4$media
