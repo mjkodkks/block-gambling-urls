@@ -7,7 +7,7 @@
 ! Developer & Maintainer: mjkodkks
 
 ! JS
-||cdn.jsdelivr.net/npm/devtools-detector$script
+! ||cdn.jsdelivr.net/npm/devtools-detector$script
 
 ! cdn
 ||www.upfastfile.com^
