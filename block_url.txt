@@ -94,6 +94,7 @@
 ||*/UFA64_C22.mp4$media
 ||*/PGK44.mp4$media
 ||*/MVPIG.mp4$media
+||*/weplay-1.mp4$media
 
 ||*BERLIN777_THAI*.mp4$media
 
