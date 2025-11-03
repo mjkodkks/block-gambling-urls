@@ -24,10 +24,10 @@ jobs:
         run: |
           # Get current date in format DD.MM.YYYY.NN
           CURRENT_DATE=$(date +"%d.%m.%Y")
-          
+
           # Extract current version from block_url.txt
           CURRENT_VERSION=$(grep "^! Version:" block_url.txt | sed 's/^! Version: //')
-          
+
           # Check if version already has today's date
           if echo "$CURRENT_VERSION" | grep -q "^$CURRENT_DATE"; then
             # Extract increment number
@@ -39,12 +39,12 @@ jobs:
           else
             NEW_INCREMENT="01"
           fi
-          
+
           NEW_VERSION="${CURRENT_DATE}.${NEW_INCREMENT}"
-          
+
           echo "Current version: $CURRENT_VERSION"
           echo "New version: $NEW_VERSION"
-          
+
           # Update version in block_url.txt
           sed -i "s/^! Version: .*/! Version: $NEW_VERSION/" block_url.txt
 
@@ -55,17 +55,17 @@ jobs:
             echo "Error: File must start with [Adblock Plus] header"
             exit 1
           fi
-          
+
           # Check for required metadata
           if ! grep -q "^! Title:" block_url.txt; then
             echo "Warning: Missing Title metadata"
           fi
-          
+
           if ! grep -q "^! Version:" block_url.txt; then
             echo "Error: Missing Version metadata"
             exit 1
           fi
-          
+
           echo "Blocklist format validation passed"
 
       - name: Commit changes
@@ -73,7 +73,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add block_url.txt
-          
+
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else

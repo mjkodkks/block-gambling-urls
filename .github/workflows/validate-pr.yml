@@ -19,21 +19,21 @@ jobs:
             echo "❌ Error: File must start with [Adblock Plus] header"
             exit 1
           fi
-          
+
           # Check for required metadata
           if ! grep -q "^! Title:" block_url.txt; then
             echo "⚠️ Warning: Missing Title metadata"
           fi
-          
+
           if ! grep -q "^! Version:" block_url.txt; then
             echo "❌ Error: Missing Version metadata"
             exit 1
           fi
-          
+
           if ! grep -q "^! Homepage:" block_url.txt; then
             echo "⚠️ Warning: Missing Homepage metadata"
           fi
-          
+
           echo "✅ Blocklist format validation passed"
 
       - name: Check for syntax errors
@@ -41,7 +41,7 @@ jobs:
           # Count valid filter rules (excluding comments and empty lines)
           FILTER_COUNT=$(grep -v "^!" block_url.txt | grep -v "^\[Adblock" | grep -v "^$" | wc -l)
           echo "Found $FILTER_COUNT filter rules"
-          
+
           if [ "$FILTER_COUNT" -eq 0 ]; then
             echo "⚠️ Warning: No filter rules found"
           else
