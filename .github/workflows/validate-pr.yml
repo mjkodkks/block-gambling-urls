@@ -5,6 +5,9 @@ on:
     paths:
       - 'block_url.txt'
 
+permissions:
+  contents: read
+
 jobs:
   validate:
     runs-on: ubuntu-latest
