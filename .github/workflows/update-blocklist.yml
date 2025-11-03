@@ -1,0 +1,82 @@
+name: Update Blocklist
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'block_url.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Update version number
+        run: |
+          # Get current date in format DD.MM.YYYY.NN
+          CURRENT_DATE=$(date +"%d.%m.%Y")
+          
+          # Extract current version from block_url.txt
+          CURRENT_VERSION=$(grep "^! Version:" block_url.txt | sed 's/^! Version: //')
+          
+          # Check if version already has today's date
+          if echo "$CURRENT_VERSION" | grep -q "^$CURRENT_DATE"; then
+            # Extract increment number
+            INCREMENT=$(echo "$CURRENT_VERSION" | sed "s/$CURRENT_DATE\.//" | sed 's/^0*//')
+            if [ -z "$INCREMENT" ]; then
+              INCREMENT=0
+            fi
+            NEW_INCREMENT=$(printf "%02d" $((INCREMENT + 1)))
+          else
+            NEW_INCREMENT="01"
+          fi
+          
+          NEW_VERSION="${CURRENT_DATE}.${NEW_INCREMENT}"
+          
+          echo "Current version: $CURRENT_VERSION"
+          echo "New version: $NEW_VERSION"
+          
+          # Update version in block_url.txt
+          sed -i "s/^! Version: .*/! Version: $NEW_VERSION/" block_url.txt
+
+      - name: Validate Adblock Plus format
+        run: |
+          # Check if file starts with [Adblock Plus 2.0]
+          if ! head -n 1 block_url.txt | grep -q "^\[Adblock Plus"; then
+            echo "Error: File must start with [Adblock Plus] header"
+            exit 1
+          fi
+          
+          # Check for required metadata
+          if ! grep -q "^! Title:" block_url.txt; then
+            echo "Warning: Missing Title metadata"
+          fi
+          
+          if ! grep -q "^! Version:" block_url.txt; then
+            echo "Error: Missing Version metadata"
+            exit 1
+          fi
+          
+          echo "Blocklist format validation passed"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add block_url.txt
+          
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update blocklist version"
+            git push
+          fi
