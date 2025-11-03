@@ -9,3 +9,10 @@
 
 For someone interest in AdBlock for Thai URLs 
 please visit : [easylist-thailand](https://github.com/easylist-thailand/easylist-thailand)
+
+## Automated Workflows
+
+This repository includes GitHub Actions workflows to maintain the blocklist:
+
+- **Update Blocklist** - Automatically updates the version number when changes are pushed to the main branch
+- **Validate PR** - Validates Adblock Plus format and checks for syntax errors in pull requests
