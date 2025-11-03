@@ -32,11 +32,8 @@ jobs:
           if echo "$CURRENT_VERSION" | grep -q "^$CURRENT_DATE"; then
             # Extract increment number
             INCREMENT=$(echo "$CURRENT_VERSION" | sed "s/$CURRENT_DATE\.//")
-            # Remove leading zeros using parameter expansion
-            INCREMENT=${INCREMENT#0}
-            if [ -z "$INCREMENT" ]; then
-              INCREMENT=0
-            fi
+            # Remove all leading zeros using arithmetic expansion
+            INCREMENT=$((10#$INCREMENT))
             NEW_INCREMENT=$(printf "%02d" $((INCREMENT + 1)))
           else
             NEW_INCREMENT="01"
@@ -51,7 +48,7 @@ jobs:
           sed -i "s/^! Version: .*/! Version: $NEW_VERSION/" block_url.txt
 
       - name: Validate Adblock Plus format
-        run: .github/scripts/validate-blocklist.sh
+        run: bash .github/scripts/validate-blocklist.sh
 
       - name: Commit changes
         run: |

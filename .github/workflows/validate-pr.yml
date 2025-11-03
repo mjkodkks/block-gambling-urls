@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Validate Adblock Plus format
-        run: .github/scripts/validate-blocklist.sh
+        run: bash .github/scripts/validate-blocklist.sh
 
       - name: Check for syntax errors
         run: |
