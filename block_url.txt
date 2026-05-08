@@ -131,6 +131,14 @@
 037hdmovie.com###ads-sidebar
 037hdmovie.com###fix_footer2
 
+037hddmovie.com###ads-single
+037hddmovie.com###ads-sidebar-single-top
+037hddmovie.com###ads-sidebar-single-bottom
+037hddmovie.com###ads-bottom-player
+037hddmovie.com###ads-index
+037hddmovie.com###ads-sidebar
+037hddmovie.com###fix_footer2
+
 ! Banner 037 new
 037hd-movies.com###ads-single
 037hd-movies.com###ads-sidebar-single-top
